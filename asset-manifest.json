@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git@github.com:bikicsunai/my-app-1.git/static/css/main.f5f49704.chunk.css",
+    "main.js": "/git@github.com:bikicsunai/my-app-1.git/static/js/main.16bd4b47.chunk.js",
+    "main.js.map": "/git@github.com:bikicsunai/my-app-1.git/static/js/main.16bd4b47.chunk.js.map",
+    "runtime-main.js": "/git@github.com:bikicsunai/my-app-1.git/static/js/runtime-main.f9a0caa5.js",
+    "runtime-main.js.map": "/git@github.com:bikicsunai/my-app-1.git/static/js/runtime-main.f9a0caa5.js.map",
+    "static/js/2.296e8d24.chunk.js": "/git@github.com:bikicsunai/my-app-1.git/static/js/2.296e8d24.chunk.js",
+    "static/js/2.296e8d24.chunk.js.map": "/git@github.com:bikicsunai/my-app-1.git/static/js/2.296e8d24.chunk.js.map",
+    "index.html": "/git@github.com:bikicsunai/my-app-1.git/index.html",
+    "static/css/main.f5f49704.chunk.css.map": "/git@github.com:bikicsunai/my-app-1.git/static/css/main.f5f49704.chunk.css.map",
+    "static/js/2.296e8d24.chunk.js.LICENSE.txt": "/git@github.com:bikicsunai/my-app-1.git/static/js/2.296e8d24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9a0caa5.js",
+    "static/js/2.296e8d24.chunk.js",
+    "static/css/main.f5f49704.chunk.css",
+    "static/js/main.16bd4b47.chunk.js"
+  ]
+}
